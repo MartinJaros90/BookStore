@@ -1,0 +1,32 @@
+/* kleine Komponenten, buttons usw.... */
+
+.svg-icon {
+    width: 32px;
+    height: 32px;
+    background-color: rgb(35,139,219);
+}
+
+.separator {
+    border: 1px solid rgb(118,181,211);
+    width: 100%;
+}
+
+input {
+    width: 80%;
+    background-color: rgba(18, 71, 88, 1);
+    color: whitesmoke;
+}
+
+.input-container {
+    display: flex;
+    width: 100%;
+    margin-left: 10%;
+    height: 32px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+
+
+.d-none {
+    display: none;
+}
